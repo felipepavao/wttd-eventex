@@ -1,3 +1,2 @@
 -r requriments.txt
 ipython[notebook]
-django_extensions
