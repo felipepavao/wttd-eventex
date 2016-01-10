@@ -1,0 +1,22 @@
+# criar env 
+python -m venv .wttd
+
+# ativar env
+source .wttd/bin/activate
+
+# instalar django
+pip install django
+
+# criar projeto
+django-admin startproject eventex .
+
+# tornar manage.py acessivel de qualquer diretorio
+alias manage='python $VIRTUAL_ENV/../manage.py'
+
+# inciando o servidor
+manage runserver
+
+# criando a primeira app
+manage startapp core
+
+# configura o banco com decouple e dj_database_url
