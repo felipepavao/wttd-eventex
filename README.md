@@ -2,6 +2,9 @@
 
 Sistema de eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/felipepavao/wttd-eventex.svg?branch=master)](https://travis-ci.org/felipepavao/wttd-eventex)
+[![Code Climate](https://codeclimate.com/repos/5691a8da557dd85c4a001894/badges/52b046b2c35cf7662211/gpa.svg)](https://codeclimate.com/repos/5691a8da557dd85c4a001894/feed)
+
 ## Como desenvolver?
 
 1. Clone o repositório
