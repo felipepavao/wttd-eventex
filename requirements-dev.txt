@@ -1,0 +1,2 @@
+-r requriments.txt
+ipython[notebook]
